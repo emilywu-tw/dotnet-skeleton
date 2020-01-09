@@ -4,6 +4,59 @@
     "/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/WebApi.Tests.csproj": {}
   },
   "projects": {
+    "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/TestWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/TestWebApi.csproj",
+        "projectName": "TestWebApi",
+        "projectPath": "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/TestWebApi.csproj",
+        "packagesPath": "/Users/cgrad/.nuget/packages/",
+        "outputPath": "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cgrad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/WebApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -24,7 +77,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/TestWebApi.csproj": {
+                "projectPath": "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/TestWebApi.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -64,6 +121,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -92,3 +92,15 @@
 /Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/obj/Debug/netcoreapp3.1/WebApi.Tests.csproj.CopyComplete
 /Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/obj/Debug/netcoreapp3.1/WebApi.Tests.dll
 /Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/obj/Debug/netcoreapp3.1/WebApi.Tests.pdb
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/bin/Debug/netcoreapp3.1/TestWebApi
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/bin/Debug/netcoreapp3.1/WebApi.Tests
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/bin/Debug/netcoreapp3.1/TestWebApi.dll
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/bin/Debug/netcoreapp3.1/TestWebApi.pdb
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/obj/Debug/netcoreapp3.1/staticwebassets/WebApi.Tests.StaticWebAssets.Manifest.cache
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/obj/Debug/netcoreapp3.1/staticwebassets/WebApi.Tests.StaticWebAssets.xml
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/obj/Debug/netcoreapp3.1/WebApi.Tests.MvcApplicationPartsAssemblyInfo.cs
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/obj/Debug/netcoreapp3.1/WebApi.Tests.MvcApplicationPartsAssemblyInfo.cache
+/Users/cgrad/projects/fsi/dotnet-skeleton/WebApi.Tests/obj/Debug/netcoreapp3.1/WebApi.Tests.RazorTargetAssemblyInfo.cache
