@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/v00003695/Desktop/Projects/dotnet-skeleton/TestWebApi.csproj": {}
+    "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/TestWebApi.csproj": {}
   },
   "projects": {
-    "/Users/v00003695/Desktop/Projects/dotnet-skeleton/TestWebApi.csproj": {
+    "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/TestWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/v00003695/Desktop/Projects/dotnet-skeleton/TestWebApi.csproj",
+        "projectUniqueName": "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/TestWebApi.csproj",
         "projectName": "TestWebApi",
-        "projectPath": "/Users/v00003695/Desktop/Projects/dotnet-skeleton/TestWebApi.csproj",
-        "packagesPath": "/Users/v00003695/.nuget/packages/",
-        "outputPath": "/Users/v00003695/Desktop/Projects/dotnet-skeleton/obj/",
+        "projectPath": "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/TestWebApi.csproj",
+        "packagesPath": "/Users/cgrad/.nuget/packages/",
+        "outputPath": "/Users/cgrad/projects/fsi/dotnet-skeleton/TestWebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/v00003695/.nuget/NuGet/NuGet.Config"
+          "/Users/cgrad/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
