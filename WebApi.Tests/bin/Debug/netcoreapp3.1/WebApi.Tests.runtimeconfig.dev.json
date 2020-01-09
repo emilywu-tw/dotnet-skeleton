@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/cgrad/.dotnet/store/|arch|/|tfm|",
+      "/Users/cgrad/.nuget/packages"
+    ]
+  }
+}
